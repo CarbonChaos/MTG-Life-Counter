@@ -11,7 +11,7 @@
  * Created by Yvonne Lumetta on March 28, 2015
  */
 
-//testing additional commit
+//Testing additional commit
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
