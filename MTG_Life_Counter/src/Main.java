@@ -7,7 +7,7 @@
  * 
  * Life counter for the card game "Magic the Gathering" 
  * 
- * 
+ * testing commit to github
  * 
  * Created by Yvonne Lumetta on March 28, 2015
  */
