@@ -7,12 +7,11 @@
  * 
  * Life counter for the card game "Magic the Gathering" 
  * 
- * testing commit to github
  * 
  * Created by Yvonne Lumetta on March 28, 2015
  */
 
-
+//testing additional commit
 import java.awt.BorderLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
